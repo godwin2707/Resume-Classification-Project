@@ -34,4 +34,4 @@ PyPDF2, pdf2image, pytesseract – PDF text extraction
 pickle – Loading trained models and vectorizers
 
 Future Work:
-I plan to enhance my Resume Classification project by incorporating more diverse datasets, improving model accuracy with advanced NLP techniques, and integrating a user-friendly interface for real-time classification.
+I plan to enhance my Resume Classification project by incorporating more diverse datasets, improving model accuracy with advanced NLP techniques.
