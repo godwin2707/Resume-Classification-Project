@@ -3,6 +3,9 @@ The Resume Classification Project is a machine learning application designed to 
 🔍 Project Overview
 The goal is to build a web-based app that accepts a resume (in .txt or .pdf format), processes its content, and predicts the most suitable job role using a trained machine learning model.
 
+What problems does it solve?
+It reduces the time and manual effort involved in screening resumes, helping recruiters and hiring platforms identify the right candidate fit more efficiently.
+
 🧠 Key Components
 Frontend/UI:
 Built with Streamlit, a Python library for building web apps for ML/data science.
